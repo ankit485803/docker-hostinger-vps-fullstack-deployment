@@ -1,0 +1,6 @@
+
+npm init -y
+
+PS C:\Users\sanja\Desktop\GitProj\docker-hostinger-vps-fullstack-deployment\server> npm i express cors
+
+npm install dotenv

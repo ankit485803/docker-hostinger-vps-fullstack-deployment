@@ -1,0 +1,26 @@
+{
+  "name": "docker-hostinger-vps-fullstack-deployment",
+  "version": "1.0.0",
+  "description": "End-to-end deployment of a full-stack web application using Docker containers on a Hostinger VPS, covering containerization, orchestration, and production setup. Inspired by learning from Chai Aur Code.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit485803/docker-hostinger-vps-fullstack-deployment.git"
+  },
+  "keywords": [],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit485803/docker-hostinger-vps-fullstack-deployment/issues"
+  },
+  "homepage": "https://github.com/ankit485803/docker-hostinger-vps-fullstack-deployment#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
